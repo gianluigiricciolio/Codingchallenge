@@ -1,0 +1,68 @@
+﻿body{
+    background: url(background.jpg);
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+.mask{
+    border-radius:10px;
+    margin:auto;
+    background: rgba(0,0,0,0.5);
+    width:800px;
+}
+
+.menu{
+    padding:70px;
+}
+
+header{
+    text-align:center;
+}
+
+header > p{
+    font-size:24px;
+    font-weight:bold;
+    color:lime;
+}
+.logo{
+    width:200px;
+    height:auto;
+}
+
+nav{
+    text-align:center;
+    background-color:lime;
+    padding:10px;
+}
+
+section{
+    color:white;
+    padding-bottom:10px;
+}
+
+.monop > span{
+    font-size:18px;
+    font-weight:bold;
+}
+
+main{
+    padding-top:10px;
+}
+
+.carica{
+    border-radius: 5px;
+    height: 20px;
+}
+.uno{
+    background-color:orange;
+    width:250px;
+}
+
+.due {
+    background-color: green;
+    width: 350px;
+}
+
+.tre {
+    background-color: red;
+    width: 150px;
+}
